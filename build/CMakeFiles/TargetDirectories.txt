@@ -1,0 +1,7 @@
+/home/zhiming/CLionProjects/ebpf-monitor/build/CMakeFiles/cpu_monitor.dir
+/home/zhiming/CLionProjects/ebpf-monitor/build/CMakeFiles/edit_cache.dir
+/home/zhiming/CLionProjects/ebpf-monitor/build/CMakeFiles/rebuild_cache.dir
+/home/zhiming/CLionProjects/ebpf-monitor/build/CMakeFiles/list_install_components.dir
+/home/zhiming/CLionProjects/ebpf-monitor/build/CMakeFiles/install.dir
+/home/zhiming/CLionProjects/ebpf-monitor/build/CMakeFiles/install/local.dir
+/home/zhiming/CLionProjects/ebpf-monitor/build/CMakeFiles/install/strip.dir
